@@ -1,10 +1,7 @@
 # magic_8ball
+We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+![Screenshot_20230609_201100](https://github.com/piushanCnakandala/Magic-8-Ball-flutter/assets/91194567/e01a2952-8430-4362-9cb5-73172b166ac0)
 
 A few resources to get you started if this is your first Flutter project:
 
